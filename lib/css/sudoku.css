@@ -5,11 +5,11 @@
 }
 
 .boardSquare {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     background-color: #eeeeee;
     border-color: #444444;
-    border-width: 2px;
+    border-width: 1px;
     text-align: center;
     border-style: solid;
     display: inline-block;
@@ -21,6 +21,6 @@
 }
 
 .sudokuBoard {
-    width: 500px;
+    width: 360px;
     margin: auto;
 }
