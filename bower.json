@@ -1,0 +1,29 @@
+{
+  "name": "cjeff-sudoku",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cjeff/cjeff-sudoku",
+  "authors": [
+    "cjeff <chrisbjefferies@outlook.com>"
+  ],
+  "description": "An attempt at a sudoku solver for learning purposes",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "sudoku",
+    "demo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
