@@ -1,0 +1,26 @@
+{
+  "name": "cjeff-sudoku",
+  "version": "0.0.1",
+  "description": "An attempt to create a sudoku solver for learning purposes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjeff/cjeff-sudoku.git"
+  },
+  "keywords": [
+    "sudoku",
+    "demo"
+  ],
+  "author": "Chris Jefferies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjeff/cjeff-sudoku/issues"
+  },
+  "homepage": "https://github.com/cjeff/cjeff-sudoku#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
