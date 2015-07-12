@@ -1,0 +1,5 @@
+/* app-specific styles not included in bootstrap */
+
+.buttonArea {
+    background-color: lightgray;
+}
