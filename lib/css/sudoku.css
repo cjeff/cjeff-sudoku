@@ -3,3 +3,23 @@
 .buttonArea {
     background-color: lightgray;
 }
+
+.boardSquare {
+    height: 50px;
+    width: 50px;
+    background-color: #eeeeee;
+    border-color: #444444;
+    border-width: 2px;
+    text-align: center;
+    border-style: solid;
+    display: inline-block;
+}
+
+.boardSqSelect {
+    background-color: #00b3ee;
+}
+
+.sudokuBoard {
+    width: 500px;
+    margin: auto;
+}
