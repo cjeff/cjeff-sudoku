@@ -20,6 +20,10 @@
     background-color: #00b3ee;
 }
 
+.boardSqSolved {
+    background-color: #00b3ee;
+}
+
 .sudokuBoard {
     width: 360px;
     margin: auto;
